@@ -1,2 +1,2 @@
 # pogr
-PostgreSQL object-oriented functions for Rust.
+PostgreSQL Object-oriented programming for Rust.
